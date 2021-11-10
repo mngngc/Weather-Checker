@@ -7,7 +7,8 @@
 - [x]  Find related Python code base
 
 Similar projects sources:
-- example-weather checking code https://github.com/chubin/wttr.in
+-  https://github.com/chubin/wttr.in
+-  https://github.com/hamdyaea/WeatherMeteo 
 # Sprint 2:
 - [ ] Begin coding
 - [ ] Make small updates and add commit messages
