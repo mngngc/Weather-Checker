@@ -10,7 +10,7 @@ Similar projects sources:
 -  https://github.com/chubin/wttr.in
 -  https://github.com/hamdyaea/WeatherMeteo 
 # Sprint 2:
-- [ ] Begin coding
+- [x] Begin coding
 - [x] Make small updates and add commit messages
 - [x] Commit at least 6 code changes
 - [x] Track progress in project road map
