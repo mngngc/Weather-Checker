@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Developer : Hamdy Abou El Anein
+
 
 # This software use wttr.in, look at https://wttr.in/:help for more information about it.
 # you need the easygui and wget library for Python 3.
