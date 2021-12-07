@@ -8,3 +8,7 @@
 2021-11-29 10:37:54.433 CRITICAL weatherproject - weather: No answer from the server
 2021-11-29 10:38:12.637 INFO weatherproject - weather: Bern
 2021-11-29 10:38:13.089 CRITICAL weatherproject - weather: No answer from the server
+2021-12-07 15:00:30.044 INFO weatherproject - weather: Bern
+2021-12-07 15:00:31.270 CRITICAL weatherproject - weather: No answer from the server
+2021-12-07 15:02:10.456 INFO weatherproject - weather: Bern
+2021-12-07 15:02:11.213 CRITICAL weatherproject - weather: No answer from the server
