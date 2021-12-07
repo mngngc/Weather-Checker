@@ -24,7 +24,7 @@ class Weather:
         self.filePath = ""
         self.image = "meteo.png"
 
-
+#create log file to show errors and inputs
 logging.basicConfig(
     filename="weather.log",
     level=logging.DEBUG,
@@ -53,7 +53,7 @@ def weather():
         filename = wget.download(Weather.url, out="meteo.png")
         logging.info("Server online OK")
     except:
-        logging.critical("No answer from the server")
+        logging.critical("No answer from the server")   #add failures to the log file
     logging.info(filename)
     Weather.image = "meteo.png"
     msg = "This is the weather report for this location"
