@@ -1,0 +1,10 @@
+2021-11-29 10:35:51.076 INFO weatherproject - weather: atlanta
+2021-11-29 10:35:51.536 CRITICAL weatherproject - weather: No answer from the server
+2021-11-29 10:36:11.688 INFO weatherproject - weather: Bern
+2021-11-29 10:36:12.137 CRITICAL weatherproject - weather: No answer from the server
+2021-11-29 10:36:24.366 INFO weatherproject - weather: Bern
+2021-11-29 10:36:24.815 CRITICAL weatherproject - weather: No answer from the server
+2021-11-29 10:37:53.923 INFO weatherproject - weather: New york
+2021-11-29 10:37:54.433 CRITICAL weatherproject - weather: No answer from the server
+2021-11-29 10:38:12.637 INFO weatherproject - weather: Bern
+2021-11-29 10:38:13.089 CRITICAL weatherproject - weather: No answer from the server
