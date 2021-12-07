@@ -15,9 +15,9 @@ Similar projects sources:
 - [x] Commit at least 6 code changes
 - [x] Track progress in project road map
 # Sprint 3:
-- [ ] Continue coding, refining, and testing
-- [ ] Create one powerpoint slide introducing project
-- [ ] Upload PPT slide to Github and D2L
+- [x] Continue coding, refining, and testing
+- [x] Create one powerpoint slide introducing project
+- [x] Upload PPT slide to Github and D2L
 # Final Presentation:
 - [ ] Schedule and record presentation in the Teams Project channel
 - [ ] Post screenshot of presentation, presentation link, and PPT in D2L
