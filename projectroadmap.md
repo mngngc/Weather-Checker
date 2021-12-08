@@ -19,5 +19,5 @@ Similar projects sources:
 - [x] Create one powerpoint slide introducing project
 - [x] Upload PPT slide to Github and D2L
 # Final Presentation:
-- [ ] Schedule and record presentation in the Teams Project channel
-- [ ] Post screenshot of presentation, presentation link, and PPT in D2L
+- [x] Schedule and record presentation in the Teams Project channel
+- [x] Post screenshot of presentation, presentation link, and PPT in D2L
